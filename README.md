@@ -1,7 +1,7 @@
 # Washington University Programming Languages of Computing (Part A + Part B + Part C) course.
-This repository contains all the solutions to Washington University's Programming Languages [Part A](https://www.coursera.org/learn/programming-languages), [Part B ](https://www.coursera.org/learn/programming-languages-part-b) and [Part C](https://www.coursera.org/learn/programming-languages-part-c) courses.
+### This repository contains all the solutions to Washington University's Programming Languages [Part A](https://www.coursera.org/learn/programming-languages), [Part B ](https://www.coursera.org/learn/programming-languages-part-b) and [Part C](https://www.coursera.org/learn/programming-languages-part-c) courses.
 
-About the Course
+### About the Course
 
 ###### This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML, Racket, and Ruby as vehicles for teaching the concepts, but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones.
 
